@@ -1,5 +1,5 @@
 //
-//  MHViewController.h
+//  MHTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Mike Hoover on 4/24/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MHViewController : UIViewController
+@interface MHTableViewController : UITableViewController
 
 @end
